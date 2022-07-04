@@ -1,0 +1,44 @@
+[
+    {
+        "transactionName": "ProjetoIvExists",
+        "transactionLabel": "A test ProjetoIvExists transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "CreateProjetoIv",
+        "transactionLabel": "A test CreateProjetoIv transaction",
+        "arguments": [
+            "001",
+            "some value"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "ReadProjetoIv",
+        "transactionLabel": "A test ReadProjetoIv transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "UpdateProjetoIv",
+        "transactionLabel": "A test UpdateProjetoIv transaction",
+        "arguments": [
+            "001",
+            "some other value"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "DeleteProjetoIv",
+        "transactionLabel": "A test DeleteProjetoIv transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    }
+]
